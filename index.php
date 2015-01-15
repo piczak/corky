@@ -7,5 +7,5 @@
 	<script>
 		alert('Hello world!');
 	</script>
-
+<?php echo "dupa";?>
 </body>
