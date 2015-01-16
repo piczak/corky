@@ -8,10 +8,8 @@
 		alert('Hello world!');
 	</script>
 <?php 
-    echo "blada";
-    echo "dupa";
-    echo "zbita";
 
+	echo 'Lorem Ipsum';
 
 ?>
 </body>
